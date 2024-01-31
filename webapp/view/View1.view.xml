@@ -1,0 +1,18 @@
+<mvc:View controllerName="com.employee.employeeapp.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <content>
+    <List
+		headerText="Details"
+		headerLevel="H2"
+		items="{
+			path: '/results'
+		}" >
+		<StandardListItem
+			title="{Name}"
+			description="{City}"/>
+	</List>
+        </content>
+    </Page>
+</mvc:View>
