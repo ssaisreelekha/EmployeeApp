@@ -4,7 +4,7 @@
     <Page id="page" title="Employee Info">
     <content>
     <List
-		headerText="Details"
+		headerText="Employee Details"
 		headerLevel="H2"
 		items="{
 			path: '/results'
