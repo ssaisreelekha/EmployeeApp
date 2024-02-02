@@ -22,7 +22,7 @@ sap.ui.define([
                         "City":"Bangalore"
                     },
                     {
-                        "Name":"S Sruthi",
+                        "Name":"S Sakshi",
                         "City":"Hyderabad"
                     }
                 ]
